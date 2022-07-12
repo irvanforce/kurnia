@@ -1,10 +1,10 @@
 {
   "products": [
-        {"image":"uploads/product-1.png", "category": "LIP, LIP CREAM", "title": "EYEXPERT MATIC BROW DEFINER", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
-        {"image":"uploads/product-2.png", "category": "", "title": "WARDAH CRYSTAL SECRET STARTER KIT CERAH SEBENING KRISTAL", "price": 114500, "discount": 20000, "link": "/wardahbeauty/product"},
-        {"image":"uploads/product-3.png", "category": "SERUM", "title": "CRYSTAL SECRET DARK SPOT & BRIGHTENING SERUM", "price": 81500, "discount": 10000, "link": "/wardahbeauty/product"},
-        {"image":"uploads/product-4.png", "category": "CLEANSER", "title": "CRYSTAL SECRET FOAMING CLEANSER WITH NATURAL AHA+PHA", "price": 32000, "discount": 7500, "link": "/wardahbeauty/product"},
-        {"image":"uploads/product-2.png", "category": "FACE, BLUSH ON", "title": "COLORFIT CREAM BLUSH", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
-        {"image":"uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT FRESH LIP INK SERUM", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
+        {"id": 1, "image":"uploads/product-1.png", "category": "LIP, LIP CREAM", "title": "EYEXPERT MATIC BROW DEFINER", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
+        {"id": 2, "image":"uploads/product-2.png", "category": "", "title": "WARDAH CRYSTAL SECRET STARTER KIT CERAH SEBENING KRISTAL", "price": 114500, "discount": 20000, "link": "/wardahbeauty/product"},
+        {"id": 3, "image":"uploads/product-3.png", "category": "SERUM", "title": "CRYSTAL SECRET DARK SPOT & BRIGHTENING SERUM", "price": 81500, "discount": 10000, "link": "/wardahbeauty/product"},
+        {"id": 4, "image":"uploads/product-4.png", "category": "CLEANSER", "title": "CRYSTAL SECRET FOAMING CLEANSER WITH NATURAL AHA+PHA", "price": 32000, "discount": 7500, "link": "/wardahbeauty/product"},
+        {"id": 5, "image":"uploads/product-2.png", "category": "FACE, BLUSH ON", "title": "COLORFIT CREAM BLUSH", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
+        {"id": 6, "image":"uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT FRESH LIP INK SERUM", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"}
   ]
 }
