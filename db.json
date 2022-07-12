@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+        {"image":"uploads/product-1.png", "category": "LIP, LIP CREAM", "title": "EYEXPERT MATIC BROW DEFINER", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
+        {"image":"uploads/product-2.png", "category": "", "title": "WARDAH CRYSTAL SECRET STARTER KIT CERAH SEBENING KRISTAL", "price": 114500, "discount": 20000, "link": "/wardahbeauty/product"},
+        {"image":"uploads/product-3.png", "category": "SERUM", "title": "CRYSTAL SECRET DARK SPOT & BRIGHTENING SERUM", "price": 81500, "discount": 10000, "link": "/wardahbeauty/product"},
+        {"image":"uploads/product-4.png", "category": "CLEANSER", "title": "CRYSTAL SECRET FOAMING CLEANSER WITH NATURAL AHA+PHA", "price": 32000, "discount": 7500, "link": "/wardahbeauty/product"},
+        {"image":"uploads/product-2.png", "category": "FACE, BLUSH ON", "title": "COLORFIT CREAM BLUSH", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
+        {"image":"uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT FRESH LIP INK SERUM", "price": 58000, "discount": 0, "link": "/wardahbeauty/product"},
+  ];
 }
