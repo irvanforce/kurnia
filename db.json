@@ -11,5 +11,11 @@
     {"link": "/wardahbeauty/news", "image":"uploads/slider1.png"},
     {"link": "/wardahbeauty/news", "image":"uploads/slider3.jpg"}
   ],
-  "categories": ["sale", "skincare", "make-up"]
+  "categories": [
+    {"link":"/wardahbeauty/product/list/crystal-secret", "slug": "crystal-secret", "label":"CRYSTAL SECRET"},
+		{"link":"/wardahbeauty/product/list/perfect-bright", "slug": "perfect-bright", "label":"PERFECT BRIGHT"},
+    {"link":"/wardahbeauty/product/list/sale", "slug": "sale", "label":"SALE"},
+		{"link":"/wardahbeauty/product/list/skincare", "slug": "skincare", "label":"SKINCARE"},
+    {"link":"/wardahbeauty/product/list/make-up", "slug": "make-up", "label":"MAKE UP"}
+  ]
 }
