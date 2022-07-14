@@ -10,5 +10,6 @@
   "main_slider": [
     {"link": "/wardahbeauty/news", "image":"uploads/slider1.png"},
     {"link": "/wardahbeauty/news", "image":"uploads/slider3.jpg"}
-  ]
+  ],
+  "categories": ["sale", "skincare", "make-up"]
 }
