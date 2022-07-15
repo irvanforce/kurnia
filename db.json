@@ -6,7 +6,8 @@
 	{"id": 4, "image":"/uploads/product-4.png", "category": "CLEANSER", "title": "CRYSTAL SECRET FOAMING CLEANSER WITH NATURAL AHA+PHA", "price": 32000, "discount": 7500, "link": "/wardahbeauty/product", "slug": "crystal-secret-foaming-cleanser-with-natural-aha-pha"},
 	{"id": 5, "image":"/uploads/product-2.png", "category": "FACE, BLUSH ON", "title": "COLORFIT CREAM BLUSH", "price": 58000, "discount": 0, "link": "/wardahbeauty/product", "slug": "colorfit-cream-blush"},
 	{"id": 6, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT FRESH LIP INK SERUM", "price": 58000, "discount": 0, "link": "/wardahbeauty/product", "slug": "colorfit-fresh-lip-ink-serum"},
-  	{"id": 7, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT PERFECT GLOW CUSHION", "price": 58000, "discount": 0, "link": "/wardahbeauty/product", "slug": "colorfit-perfect-glow-cushion"}
+  	{"id": 7, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT PERFECT GLOW CUSHION", "price": 58000, "discount": 0, "link": "/wardahbeauty/product", "slug": "colorfit-perfect-glow-cushion"},
+  	{"id": 8, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT LAST ALL DAY LIP PAINT AROUND THE WORLD", "price": 58000, "discount": 0, "link": "/wardahbeauty/product/make-up/colorfit-last-all-day-lip-paint-around-the-world", "slug": "colorfit-last-all-day-lip-paint-around-the-world"}
   ],
   "main_slider": [
     {"link": "/wardahbeauty/news", "image":"uploads/slider1.png"},
