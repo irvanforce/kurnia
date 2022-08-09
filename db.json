@@ -15,10 +15,235 @@
     {"link": "/wardahbeauty/news", "image":"uploads/slider3.jpg"}
   ],
   "categories": [
-    {"link":"/wardahbeauty/product/list/crystal-secret", "slug": "crystal-secret", "label":"CRYSTAL SECRET"},
-		{"link":"/wardahbeauty/product/list/perfect-bright", "slug": "perfect-bright", "label":"PERFECT BRIGHT"},
-    {"link":"/wardahbeauty/product/list/sale", "slug": "sale", "label":"SALE"},
-		{"link":"/wardahbeauty/product/list/skin-care", "slug": "skin-care", "label":"SKIN CARE"},
-    {"link":"/wardahbeauty/product/list/make-up", "slug": "make-up", "label":"MAKE UP"}
+        {
+            "label": "Acnederm",
+            "slug": "acnederm",
+            "link": "wardahbeauty/product/list/acnederm"
+        },
+        {
+            "label": "Aloe Hydramild",
+            "slug": "aloe-hydramild-1",
+            "link": "wardahbeauty/product/list/aloe-hydramild-1"
+        },
+        {
+            "label": "Aloe Sheet Mask",
+            "slug": "aloe-sheet-mask",
+            "link": "wardahbeauty/product/list/aloe-sheet-mask"
+        },
+        {
+            "label": "Blush On",
+            "slug": "blush-on",
+            "link": "wardahbeauty/product/list/blush-on"
+        },
+        {
+            "label": "Body Series",
+            "slug": "body-series",
+            "link": "wardahbeauty/product/list/body-series"
+        },
+        {
+            "label": "C Defense",
+            "slug": "c-defense",
+            "link": "wardahbeauty/product/list/c-defense"
+        },
+        {
+            "label": "Conditioner",
+            "slug": "conditioner",
+            "link": "wardahbeauty/product/list/conditioner"
+        },
+        {
+            "label": "Crystal Secret",
+            "slug": "crystal-secret",
+            "link": "wardahbeauty/product/list/crystal-secret"
+        },
+        {
+            "label": "CRYSTALLURE",
+            "slug": "#",
+            "link": "wardahbeauty/product/list/#"
+        },
+        {
+            "label": "Eye",
+            "slug": "eye",
+            "link": "wardahbeauty/product/list/eye"
+        },
+        {
+            "label": "Eyebrow",
+            "slug": "eyebrow-1",
+            "link": "wardahbeauty/product/list/eyebrow-1"
+        },
+        {
+            "label": "Eyeliner",
+            "slug": "eyeliner-1",
+            "link": "wardahbeauty/product/list/eyeliner-1"
+        },
+        {
+            "label": "Eyeshadow",
+            "slug": "eyeshadow-1",
+            "link": "wardahbeauty/product/list/eyeshadow-1"
+        },
+        {
+            "label": "Face",
+            "slug": "face",
+            "link": "wardahbeauty/product/list/face"
+        },
+        {
+            "label": "Foundation",
+            "slug": "foundation",
+            "link": "wardahbeauty/product/list/foundation"
+        },
+        {
+            "label": "HAJJ & UMROH",
+            "slug": "hajj---umroh",
+            "link": "wardahbeauty/product/list/hajj---umroh"
+        },
+        {
+            "label": "Hydra Rose",
+            "slug": "hydra-rose",
+            "link": "wardahbeauty/product/list/hydra-rose"
+        },
+        {
+            "label": "INSTAPERFECT",
+            "slug": "https://www.wardahbeauty.com/",
+            "link": "wardahbeauty/product/list/https://www.wardahbeauty.com/"
+        },
+        {
+            "label": "IYA ATQIA",
+            "slug": "IYA ATQIA",
+            "link": "wardahbeauty/product/list/IYA ATQIA"
+        },
+        {
+            "label": "Lightening",
+            "slug": "lightening",
+            "link": "wardahbeauty/product/list/lightening"
+        },
+        {
+            "label": "Lip Balm",
+            "slug": "lip-balm",
+            "link": "wardahbeauty/product/list/lip-balm"
+        },
+        {
+            "label": "Lip Cream",
+            "slug": "lip-cream",
+            "link": "wardahbeauty/product/list/lip-cream"
+        },
+        {
+            "label": "Lip Tint",
+            "slug": "lip-tint",
+            "link": "wardahbeauty/product/list/lip-tint"
+        },
+        {
+            "label": "Lips",
+            "slug": "lips",
+            "link": "wardahbeauty/product/list/lips"
+        },
+        {
+            "label": "Lipstick",
+            "slug": "lipstick",
+            "link": "wardahbeauty/product/list/lipstick"
+        },
+        {
+            "label": "Loose Powder",
+            "slug": "loose-powder",
+            "link": "wardahbeauty/product/list/loose-powder"
+        },
+        {
+            "label": "Make Up",
+            "slug": "make-up",
+            "link": "wardahbeauty/product/list/make-up"
+        },
+        {
+            "label": "Mascara",
+            "slug": "mascara-1",
+            "link": "wardahbeauty/product/list/mascara-1"
+        },
+        {
+            "label": "Nature Daily",
+            "slug": "nature-daily",
+            "link": "wardahbeauty/product/list/nature-daily"
+        },
+        {
+            "label": "Others",
+            "slug": "others",
+            "link": "wardahbeauty/product/list/others"
+        },
+        {
+            "label": "Perfect Bright",
+            "slug": "perfect-bright",
+            "link": "wardahbeauty/product/list/perfect-bright"
+        },
+        {
+            "label": "Product Bundling",
+            "slug": "product-bundling",
+            "link": "wardahbeauty/product/list/product-bundling"
+        },
+        {
+            "label": "PROMO WARDAH TEST A",
+            "slug": "promo-wardah-test-a",
+            "link": "wardahbeauty/product/list/promo-wardah-test-a"
+        },
+        {
+            "label": "Renew You",
+            "slug": "renew-you",
+            "link": "wardahbeauty/product/list/renew-you"
+        },
+        {
+            "label": "Scentsation",
+            "slug": "scentsation-1",
+            "link": "wardahbeauty/product/list/scentsation-1"
+        },
+        {
+            "label": "Scentsation",
+            "slug": "scentsation",
+            "link": "wardahbeauty/product/list/scentsation"
+        },
+        {
+            "label": "Seaweed",
+            "slug": "seaweed",
+            "link": "wardahbeauty/product/list/seaweed"
+        },
+        {
+            "label": "Series",
+            "slug": "series",
+            "link": "wardahbeauty/product/list/series"
+        },
+        {
+            "label": "Shampoo",
+            "slug": "shampoo",
+            "link": "wardahbeauty/product/list/shampoo"
+        },
+        {
+            "label": "Skin Care",
+            "slug": "skin-care",
+            "link": "wardahbeauty/product/list/skin-care"
+        },
+        {
+            "label": "Test Categroy",
+            "slug": "test-category",
+            "link": "wardahbeauty/product/list/test-category"
+        },
+        {
+            "label": "Two Way Cake",
+            "slug": "two-way-cake",
+            "link": "wardahbeauty/product/list/two-way-cake"
+        },
+        {
+            "label": "UV Shield Series",
+            "slug": "uv-shield-series",
+            "link": "wardahbeauty/product/list/uv-shield-series"
+        },
+        {
+            "label": "White Secret",
+            "slug": "white-secret",
+            "link": "wardahbeauty/product/list/white-secret"
+        },
+        {
+            "label": "Wisuda UI",
+            "slug": "wisuda-ui",
+            "link": "wardahbeauty/product/list/wisuda-ui"
+        },
+        {
+            "label": "Witch Hazel",
+            "slug": "witch-hazel",
+            "link": "wardahbeauty/product/list/witch-hazel"
+        }
   ]
 }
