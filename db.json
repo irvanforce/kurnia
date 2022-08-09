@@ -7,7 +7,8 @@
 	{"id": 5, "image":"/uploads/product-2.png", "category": "FACE, BLUSH ON", "title": "COLORFIT CREAM BLUSH", "price": 58000, "discount": 0, "link": "/wardahbeauty/product", "slug": "colorfit-cream-blush"},
 	{"id": 6, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT FRESH LIP INK SERUM", "price": 58000, "discount": 0, "link": "/wardahbeauty/product", "slug": "colorfit-fresh-lip-ink-serum"},
   	{"id": 7, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT PERFECT GLOW CUSHION", "price": 58000, "discount": 0, "link": "/wardahbeauty/product", "slug": "colorfit-perfect-glow-cushion"},
-  	{"id": 8, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT LAST ALL DAY LIP PAINT AROUND THE WORLD", "price": 58000, "discount": 0, "link": "/wardahbeauty/product/make-up/colorfit-last-all-day-lip-paint-around-the-world", "slug": "colorfit-last-all-day-lip-paint-around-the-world"}
+  	{"id": 8, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "COLORFIT LAST ALL DAY LIP PAINT AROUND THE WORLD", "price": 58000, "discount": 0, "link": "/wardahbeauty/product/make-up/colorfit-last-all-day-lip-paint-around-the-world", "slug": "colorfit-last-all-day-lip-paint-around-the-world"},
+	{"id": 9, "image":"/uploads/product-3.png", "category": "LIP, LIP CREAM", "title": "crystallure essential skincare routine", "price": 58000, "discount": 0, "link": "/wardahbeauty/product/skin-care/crystallure-essential-skincare-routine", "slug": "crystallure-essential-skincare-routine"}
   ],
   "main_slider": [
     {"link": "/wardahbeauty/news", "image":"uploads/slider1.png"},
